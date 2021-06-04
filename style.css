@@ -1,0 +1,42 @@
+.title {
+  color: rebeccapurple;
+  font-size: 450%;
+  text-align: center;
+}
+
+.photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: double;
+  border-color: rebeccapurple;
+}
+
+.quote {
+  color: rebeccapurple;
+  font-size: 350%;
+  text-align: center;
+}
+
+.quest {
+  color: rebeccapurple;
+  font-size: 175%;
+  margin-left: 50px;
+  font-family: arial, helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.para {
+  color: white;
+  margin-left: 50px;
+  font-size: 150%;
+  font-family: arial, helvetica, sans-serif;
+  padding: 40px;
+  background-color: rebeccapurple;
+  border-style: solid;
+  border-color: gold;
+}
+
+body {
+  background-color: white;
+}
